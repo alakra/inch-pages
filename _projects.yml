@@ -1,5 +1,6 @@
 # Put your project here:
 - alakra/ndfd-weather-forecast-client
+- alakra/weather-forecasts
 - amatsuda/kaminari
 - appdrones/page_record
 - asm-helpful/helpful-web
@@ -76,7 +77,7 @@
 - futhr/spree-unifaun
 - jwaldrip/flatrack
 - benbalter/word-to-markdown
-- airbnb/synapse
+- airbnb/synapsea
 - opscode/supermarket
 - fairnopoly/fairnopoly
 - jwaldrip/modloc
