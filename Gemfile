@@ -3,9 +3,9 @@ source 'http://rubygems.org'
 gem 'octokit'
 gem 'gems'
 
-gem 'repomen'
-gem 'inch', ">= 0.3.2"
-gem 'inch-badge', ">= 0.1.1"
+gem 'repomen', ">= 0.1.4"
+gem 'inch', ">= 0.4.6"
+gem 'inch-badge', ">= 0.2.1"
 
 gem 'jekyll'
 gem 'jekyll-haml'
